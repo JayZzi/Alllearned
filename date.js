@@ -1,4 +1,4 @@
-var elem = function(id){return document.getElementById(id)}
+var elem = function(id){return document.getElementById(id)};
 
 //document.getElementById('first').onclick = function(){
 //    alert("fdfds")
@@ -8,13 +8,9 @@ var elem = function(id){return document.getElementById(id)}
 //}
 elem('one').onclick = function () {
     alert(elem('two').value);
-}
+};
 
 
-ТЕСТ ГИТХАБА ВЕБШТОРМА НА БАВТАДЛВАОТВВАТОЛВДАфвфйы
-фывывфыв
-фывфыв
-фывфыв
 
 //function User(fullName) {
 //    this.fullName = fullName;
